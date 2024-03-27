@@ -9,3 +9,5 @@ We have released a number of (Mostly intact) Open-Source Libraries. These can al
 - Nathan Manhardt - 2021-Present
 - Nick Shreve - 2022-Present
 - Nolan Tingler - 2022-Present
+- Malik Gassar - 2023-Present
+- Jimmy Campbell - 2023-Present
