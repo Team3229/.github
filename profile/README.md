@@ -7,8 +7,14 @@ Each year we open source the years code used on the robot, under its specific ye
 We have released a number of (Mostly intact) Open-Source Libraries. These can all be found under the [Hawk-Libraries](https://github.com/Team3229/Hawk-Libraries) Repository. We are actively working on (some of) these, and will try to keep important ones (Such as the Swerve Drivebase) up to date with the latest WPI Versions. If there is anything you would like updated/changed, feel free to make an issue or PR if you would like to try fixing it!
 ## Development Team
 - Nathan Manhardt - 2021-Present
-- Nick Shreve - 2022-Present
-- Nolan Tingler - 2022-Present
-- Malik Gassar - 2023-2024
 - Jimmy Campbell - 2023-Present
 - Asher Benincosa - 2023-Present
+- Reilly Haggard - 2024-Present
+- Will McNabb - 2024-Present
+- Aidan Harmon 2024-Present
+- Logan Colby - 2024-Present
+
+## Previous Members
+- Nick Shreve - 2022-2025
+- Nolan Tingler - 2022-2024
+- Malik Gassar - 2023-2024
